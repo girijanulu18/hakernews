@@ -10,3 +10,7 @@ Procedure followed in the below steps
           
 3. Showing clear line by line stories by dividing each story with border
 
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/87764725/196083533-1ca31b45-3233-42d4-85c4-76551ffa6234.png">
+
+
